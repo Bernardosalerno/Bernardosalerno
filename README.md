@@ -6,7 +6,7 @@
 
 ---
 
-## 🇮🇹 Chi sono? | Who I am?
+## 🇮🇹 Chi sono? | Who am I?
 
 Sono uno studente magistrale in **Ingegneria Informatica e Biomedica** presso l’Università Magna Graecia di Catanzaro, con una forte passione per l’**Intelligenza Artificiale applicata alla medicina**.  
 Sto attualmente lavorando alla mia tesi di laurea dal titolo:
